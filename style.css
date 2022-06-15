@@ -8,3 +8,22 @@ h1 {
   padding: 20px;                          /* відступ від границі елементу до його контенту*/
   margin: 20px;                           /* відступ від границі елементу до іншого елементу */
 }
+
+h2 {
+  color: brown;
+  background: yellow;
+  font-family: "Arial", monospace;
+  height: 50px;
+  width: 50%;
+  border: solid black 2px;
+  padding: 10px;
+  margin: 10px;
+}
+
+h4 {
+  color: black;
+  font-family: "Times New Roman", monospace;
+  font: 600 1rem/16px Roboto Condensed;
+      letter-spacing: normal;
+      margin: 0 0 16px;
+}

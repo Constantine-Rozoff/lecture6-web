@@ -1,0 +1,19 @@
+Request URL: http://localhost:63342/lecture6-web/_items.html
+Request Method: GET
+
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: Idea-3943222e=555b8382-6117-430b-b217-4861e44d21fd
+Host: localhost:63342
+Pragma: no-cache
+Referer: http://localhost:63342/lecture6-web/index.html?_ijt=ka6n4q910kd37t2v23r9p02l33&_ij_reload=RELOAD_ON_SAVE
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36

@@ -30,3 +30,13 @@ document.getElementById('loadItems').addEventListener('click', () => {
   xhttp.open('GET', '_items.html', true);
   xhttp.send();
 })
+
+// Видаляємо зміст списка
+// Неяк не вдається зробити, шоб кнопка працювала :(
+document.getElementById('deleteItems').addEventListener('click', () => {
+  // Знаходимо тектове поле задачи
+  let list = document.getElementById('myList');
+  // Беремо введене значення
+  list.deleteListItem;
+  }
+})
