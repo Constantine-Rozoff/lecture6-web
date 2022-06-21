@@ -31,12 +31,8 @@ document.getElementById('loadItems').addEventListener('click', () => {
   xhttp.send();
 })
 
-// Видаляємо зміст списка
-// Неяк не вдається зробити, шоб кнопка працювала :(
+// Видаляємо зміст переліка
 document.getElementById('deleteItems').addEventListener('click', () => {
-  // Знаходимо тектове поле задачи
   let list = document.getElementById('myList');
-  // Беремо введене значення
-  list.deleteListItem;
-  }
-})
+  list.remove();
+  })
